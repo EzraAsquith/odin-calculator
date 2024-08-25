@@ -3,6 +3,9 @@
     flex-direction: column;
     align-items: center;
 }
+.numbersContainer {
+    display: flex;
+}
 
 .calculator {
     display: flex;
